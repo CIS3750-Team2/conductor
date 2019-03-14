@@ -1,0 +1,3 @@
+[submodule "api-service"]
+	path = api-service
+	url = git@github.com:CIS3750-Team2/api-service.git
