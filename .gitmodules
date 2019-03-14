@@ -1,6 +1,6 @@
 [submodule "api-service"]
 	path = api-service
-	url = git@github.com:CIS3750-Team2/api-service.git
+	url = https://github.com/CIS3750-Team2/api-service.git
 [submodule "data-service-ontario"]
 	path = data-service-ontario
-	url = git@github.com:CIS3750-Team2/data-service-ontario.git
+	url = https://github.com/CIS3750-Team2/data-service-ontario.git
