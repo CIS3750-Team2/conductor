@@ -10,6 +10,10 @@
   "repository": "git@github.com:CIS3750-Team2/conductor.git",
   "author": "EvilKanoa <kanoa@kanoa.ca>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "engines": {
+    "node": ">=10",
+    "yarn": ">= 1.13"
+  }
 }
 
