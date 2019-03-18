@@ -4,3 +4,6 @@
 [submodule "data-service-ontario"]
 	path = data-service-ontario
 	url = https://github.com/CIS3750-Team2/data-service-ontario.git
+[submodule "data-service-alberta"]
+	path = data-service-alberta
+	url = https://github.com/CIS3750-Team2/data-service-alberta.git

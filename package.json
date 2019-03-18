@@ -2,9 +2,10 @@
   "name": "conductor",
   "version": "0.0.1",
   "scripts": {
-    "postinstall": "(cd api-service && yarn); (cd data-service-ontario && yarn)",
+    "postinstall": "(cd api-service && yarn); (cd data-service-ontario && yarn); (cd data-service-alberta && yarn)",
     "api-service": "cd api-service && yarn start",
-    "data-service-ontario": "cd data-service-ontario && yarn start"
+    "data-service-ontario": "cd data-service-ontario && yarn start",
+    "data-service-alberta": "cd data-service-alberta && yarn start"
   },
   "main": "",
   "repository": "git@github.com:CIS3750-Team2/conductor.git",
